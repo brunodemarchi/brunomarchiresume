@@ -1,11 +1,12 @@
 ## Bruno Marchi - Desenvolvedor
 
 **Idade**: 24 anos  
-**Cidade**: Curitiba - PR  
+**Cidade**: Curitiba - PR 
+
 
 # Projetos 
 
-
+###**Bad ou Bed - Pratique seu listening**
 
 ### Markdown
 
