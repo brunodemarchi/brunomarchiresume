@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Bruno Marchi - Desenvolvedor
 
-You can use the [editor on GitHub](https://github.com/brunodemarchi/brunomarchiresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Idade**: 24 anos  
+**Cidade**: Curitiba - PR  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Projetos 
+
+
 
 ### Markdown
 
