@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bdfe5a2f-d9e6-47dd-b59b-fc6be4c51c6a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <first_editor relative-caret-position="400">
+                <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -120,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569942731576</updated>
-      <workItem from="1569942733531" duration="5938000" />
+      <workItem from="1569942733531" duration="6566000" />
     </task>
     <task id="LOCAL-00001" summary="first draft">
       <created>1569948861634</created>
@@ -164,14 +165,29 @@
       <option name="project" value="LOCAL" />
       <updated>1569985855976</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/brunodemarchi/brunomarchiresume">
+      <created>1569985901155</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569985901155</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge branch 'master' of https://github.com/brunodemarchi/brunomarchiresume">
+      <created>1569986164244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569986164244</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5938000" />
+    <option name="totallyTimeSpent" value="6566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18390192" />
@@ -221,8 +237,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <first_editor relative-caret-position="400">
+            <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
