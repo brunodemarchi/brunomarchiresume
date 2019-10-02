@@ -12,7 +12,7 @@ Aplicativo Android desenvolvido em **Kotlin** para praticar o listening no ingl�
 ### **Encontrando Dobby - Uma aventura do Sr.Urso**
 [Link para Google Play](https://play.google.com/store/apps/details?id=com.MartinyEntertainment.FindingDobbyMrBearAdventure)
 
-![Image](https://i.ibb.co/1TC2D4k/dobby.gif)
+![Image](https://i.ibb.co/TtQhVNs/dobby.gif)
 
 Jogo desenvolvido em **C#**, utilizando **Unity**. Projeto concluído em 1 mês, contabilizando o tempo de aprendizado da ferramenta e criação dos assets.
 
