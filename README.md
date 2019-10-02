@@ -4,7 +4,7 @@
 ### **Bad ou Bed - Pratique seu listening**
 [Link para Google Play](https://play.google.com/store/apps/details?id=com.brunomarchi.badoubed_pratiqueseulistening)
 
-![Image](https://i.ibb.co/Rc0wN1c/badoubed.gif)
+![Image](https://i.ibb.co/2n0DDSC/bad-resized.gif)
 
 Aplicativo Android desenvolvido em **Kotlin** para praticar o listening no inglês. Projeto simples, desenvolvido em 1 semana, tendo como objetivo mostrar a minha capacidade de aprender uma nova linguagem de programação e finalizar um projeto rapidamente.
 
@@ -12,7 +12,7 @@ Aplicativo Android desenvolvido em **Kotlin** para praticar o listening no ingl�
 ### **Encontrando Dobby - Uma aventura do Sr.Urso**
 [Link para Google Play](https://play.google.com/store/apps/details?id=com.MartinyEntertainment.FindingDobbyMrBearAdventure)
 
-![Image](https://i.ibb.co/TtQhVNs/dobby.gif)
+![Image](https://i.ibb.co/MhtsCZN/dobby-resized.gif)
 
 Jogo desenvolvido em **C#**, utilizando **Unity**. Projeto concluído em 1 mês, contabilizando o tempo de aprendizado da ferramenta e criação dos assets.
 
